@@ -1,2 +1,6 @@
 # dw_matrix
-Wyzwanie
+5 Days Challenge
+Let's see what will happen...
+
+Day 1:
+- for now nothing special :P
